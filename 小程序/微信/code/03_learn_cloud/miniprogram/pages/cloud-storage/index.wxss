@@ -1,0 +1,4 @@
+/* pages/cloud-storage/index.wxss */
+.btn {
+  margin: 10rpx 0;
+}
